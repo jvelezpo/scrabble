@@ -1,7 +1,7 @@
-SEBASTIAN VELEZ
+Scrabble
 ================
 
-he purpose of this exercise is to build a JAVA Restful webservice which aims to help people
+the purpose of this exercise is to build a JAVA Restful webservice which aims to help people
 playing scrabble (https://en.wikipedia.org/wiki/Scrabble) by finding existing words.
 
 The web service must take a list of letters as query parameters and return an existing word to the end user.
